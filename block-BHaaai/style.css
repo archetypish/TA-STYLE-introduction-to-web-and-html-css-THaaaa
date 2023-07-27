@@ -2,37 +2,37 @@ body {
   background-color: #22396a;
   color: #fff;
   font-family: sans-serif;
-  font-size: 16px;
 }
 
-img {
-  width: 200px;
-  height: 200px;
+#page-title {
+  font-size: 36px;
 }
 
-h1 {
-  font-size: 40px;
+.headings {
+  color: #31bb66;
+  font-size: 30px;
+}
+
+.sub-headings {
+  font-size: 20px;
+}
+
+.ext-link:link {
+  color: #ee244f;
+  margin-right: 16px;
 }
 
 header {
   text-align: center;
 }
 
-h2 {
-  color: #6abc66;
-  font-size: 32px;
-}
-
-h3 {
-  font-size: 24px;
+.connect {
+  background-color: #11244d;
+  padding: 4px 0;
+  text-align: center;
 }
 
 address {
-  font-size: 20px;
   font-style: normal;
-}
-
-.social-profile-link {
-  color: #d04450;
-  margin-right: 12px;
+  font-size: 20px;
 }
