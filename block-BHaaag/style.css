@@ -2,28 +2,22 @@ body {
   background-color: #22396a;
   color: #fff;
   font-family: sans-serif;
-  font-size: 16px;
 }
 
-h1 {
-  font-size: 40px;
+#page-title {
+  font-size: 36px;
 }
 
-h2 {
-  color: #6abc66;
-  font-size: 32px;
+.headings {
+  color: #31bb66;
+  font-size: 30px;
 }
 
-h3 {
-  font-size: 24px;
-}
-
-address {
+.sub-headings {
   font-size: 20px;
-  font-style: normal;
 }
 
-.social-profile-link {
-  color: #d04450;
-  margin-right: 12px;
+.ext-link:link {
+  color: #ee244f;
+  margin-right: 16px;
 }
