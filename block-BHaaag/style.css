@@ -1,0 +1,22 @@
+body {
+  background-color: #22396a;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+#page-title {
+  font-size: 36px;
+}
+
+.headings {
+  color: #31bb66;
+  font-size: 30px;
+}
+
+.sub-headings {
+  font-size: 20px;
+}
+
+.ext-link:link {
+  color: #ee244f;
+}
