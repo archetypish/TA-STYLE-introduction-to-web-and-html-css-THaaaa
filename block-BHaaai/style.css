@@ -21,3 +21,18 @@ body {
   color: #ee244f;
   margin-right: 16px;
 }
+
+header {
+  text-align: center;
+}
+
+.connect {
+  background-color: #11244d;
+  padding: 4px 0;
+  text-align: center;
+}
+
+address {
+  font-style: normal;
+  font-size: 20px;
+}
